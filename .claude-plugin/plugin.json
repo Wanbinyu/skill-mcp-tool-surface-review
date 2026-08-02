@@ -1,0 +1,17 @@
+{
+  "name": "mcp-tool-surface-review",
+  "version": "0.1.0",
+  "description": "Review an existing MCP server's tool surface for safety and clarity. Use when auditing tools/list output, third-party MCP installs, or Chinese \"\u5ba1\u67e5 MCP \u5de5\u5177\", \"MCP \u5b89\u5168\u9762\", \"tools/list \u5ba1\u8ba1\". Does NOT teac...",
+  "author": {
+    "name": "Wanbinyu",
+    "url": "https://github.com/Wanbinyu"
+  },
+  "homepage": "https://github.com/Wanbinyu/skill-mcp-tool-surface-review",
+  "repository": "https://github.com/Wanbinyu/skill-mcp-tool-surface-review",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "mcp-tool-surface-review"
+  ]
+}

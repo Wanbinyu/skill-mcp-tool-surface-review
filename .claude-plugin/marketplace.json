@@ -1,0 +1,23 @@
+{
+  "name": "mcp-tool-surface-review",
+  "owner": {
+    "name": "Wanbinyu",
+    "url": "https://github.com/Wanbinyu"
+  },
+  "metadata": {
+    "description": "Review an existing MCP server's tool surface for safety and clarity. Use when auditing tools/list output, third-party MCP installs, or Chinese \"\u5ba1\u67e5 MCP \u5de5\u5177\", \"MCP \u5b89\u5168\u9762\", \"tools/list \u5ba1\u8ba1\". Does NOT teac...",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "mcp-tool-surface-review",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Review an existing MCP server's tool surface for safety and clarity. Use when auditing tools/list output, third-party MCP installs, or Chinese \"\u5ba1\u67e5 MCP \u5de5\u5177\", \"MCP \u5b89\u5168\u9762\", \"tools/list \u5ba1\u8ba1\". Does NOT teac...",
+      "keywords": [
+        "agent-skills",
+        "mcp-tool-surface-review"
+      ]
+    }
+  ]
+}
